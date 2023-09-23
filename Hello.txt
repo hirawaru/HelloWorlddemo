@@ -1,5 +1,2 @@
-hello cac ban
+hello world
 hello
-hello
-hay qua di a
-hello main
